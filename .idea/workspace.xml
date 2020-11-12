@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c400639-5543-41ce-97b3-6b4b6fe3b86c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k0B1495PMkU3NFrWVNISesF8qN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c400639-5543-41ce-97b3-6b4b6fe3b86c" name="Default Changelist" comment="" />
+      <created>1604827409801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604827409801</updated>
+      <workItem from="1604827410856" duration="63000" />
+      <workItem from="1605020793605" duration="2977000" />
+      <workItem from="1605055583412" duration="1779000" />
+      <workItem from="1605076338069" duration="1926000" />
+      <workItem from="1605078494818" duration="1620000" />
+      <workItem from="1605103638992" duration="11463000" />
+      <workItem from="1605115214840" duration="967000" />
+      <workItem from="1605116398011" duration="606000" />
+      <workItem from="1605117015188" duration="17000" />
+      <workItem from="1605117133532" duration="1017000" />
+      <workItem from="1605142042970" duration="2969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="272" width="441" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1605109981112">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="339" y="272" width="441" height="576" key="#com.intellij.ide.util.MemberChooser/68.27.1852.1053@68.27.1852.1053" timestamp="1605109981112" />
+    <state x="777" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605117567827">
+      <screen x="68" y="27" width="1852" height="1053" />
+    </state>
+    <state x="777" y="311" width="424" height="491" key="FileChooserDialogImpl/68.27.1852.1053/1920.0.1366.768@68.27.1852.1053" timestamp="1604827471811" />
+    <state x="777" y="311" width="424" height="491" key="FileChooserDialogImpl/68.27.1852.1053@68.27.1852.1053" timestamp="1605117567827" />
+  </component>
+</project>
