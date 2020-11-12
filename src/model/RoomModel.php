@@ -55,6 +55,12 @@ class RoomModel
         $stmt->execute();
 
     }
+    public function delete($id){
+        $sql = "UPDATE rooms SET customerName=NULL,CMND=NULL,dayIn=NULL,status='Trống',note=NULL where roomCode=:id";
+        $stmt=$this->database->prepare($sql);
+        $stmt->bindParam(':id',$id);
+        $stmt->execute();
+    }
 
 
 }

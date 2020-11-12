@@ -17,6 +17,9 @@ switch ($page) {
     case 'checkRoom':
         $controllerOrder->checkRoom();
         break;
+    case 'delete':
+        $controllerRoom->delete();
+        break;
     default:
         $controllerRoom->showRoom();
         break;

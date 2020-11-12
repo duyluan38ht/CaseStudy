@@ -47,6 +47,11 @@ class ControllerRoom
         }
 
     }
+    public function delete(){
+        $id=$_REQUEST['id'];
+        $this->controllerRoom->delete($id);
+        header('location:index.php');
+    }
 
 
 

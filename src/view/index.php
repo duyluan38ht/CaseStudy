@@ -355,7 +355,7 @@
                     <div class="price">
                         <p><?php echo $value->getStatus(); ?></p>
                     </div>
-                    <a href="index.php?page=bookRoom&id=<?php echo $value->getRoomCode(); ?>"
+                    <a class="btn btn-outline-primary" href="index.php?page=bookRoom&id=<?php echo $value->getRoomCode(); ?>"
                        style="font-size: 10px;text-decoration: none; background: ;border-radius: 2px">Chi Tiết</a><br>
 <!--                    <a href="index.php?page=bookRoom&id=--><?php //echo $value->getRoomCode(); ?><!--"-->
 <!--                       style="font-size: 10px;text-decoration: none; background: ;border-radius: 2px">Trả Phòng</a><br>-->
